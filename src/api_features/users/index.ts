@@ -1,0 +1,6 @@
+export * from './functions/addNewUser'
+export * from './functions/deleteUserById'
+export * from './functions/getUsers'
+export * from './functions/getUsersById'
+export * from './functions/putUserById'
+export * from './middlewares/checkCpfExistence'
